@@ -102,4 +102,5 @@ Cada carpeta contiene una subcarpeta donde se encuentra el código desarrollado 
 Hemos utilizado ChatGPT y Gemini para la resolución de dudas, asistencia en la escritura del código y procesos de debugging
 
 ## Autores
-- Jerónimo Ómar Falcón Dávila
+- Jerónimo Omar Falcón Dávila
+- Nicolás Rey Alonso
