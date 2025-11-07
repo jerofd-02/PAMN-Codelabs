@@ -91,7 +91,15 @@ Cada carpeta contiene una subcarpeta donde se encuentra el código desarrollado 
 - En States Codelab nos llamó la atención observar cómo el recolector de basura de Android gestiona la memoria y el ciclo de vida de los componentes, manteniendo los estados en diferentes tipos de elementos de la interfaz.
 - En Theming Codelab destacamos la integración de las clases y componentes de Material Design, su coherencia estética y la facilidad con la que se pueden personalizar colores, tipografías y estilos globales.
 - En Jetpack Compose Codelab resultó interesante comprender cómo se construye la interfaz de usuario de forma declarativa, utilizando funciones Composable y un enfoque reactivo basado en el estado.
+<p align="center">
+  <img src="./BC.png" alt="Captura del Codelab" width="40%">
+  <img src="./SDS.png" alt="Captura del Codelab" width="40%">
+</p>
+
 - En Compose Article Codelab nos pareció destacable la claridad con la que se organiza el contenido dentro de los layouts y cómo se aplican los principios de diseño modular para mejorar la reutilización de componentes.
 
 ## Uso de la IA
 Hemos utilizado ChatGPT y Gemini para la resolución de dudas, asistencia en la escritura del código y procesos de debugging
+
+## Autores
+- Jerónimo Ómar Falcón Dávila
